@@ -1,5 +1,13 @@
-mediapipe==0.10.21
-keras
-tensorflow
-numpy
 opencv-python
+numpy
+pandas
+scipy
+matplotlib
+tensorflow
+pytorch
+torchvision
+scikit-learn
+flask
+tkinter
+pyserial
+requests
